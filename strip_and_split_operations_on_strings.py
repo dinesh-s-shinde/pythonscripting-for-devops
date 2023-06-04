@@ -6,4 +6,3 @@ full_sentence = "Go lang is the one of the most popular language for Devops Engi
 #final_string = full_sentence.split()
 #print(final_string)
 full_sentence.split()
-
